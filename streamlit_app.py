@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 My new app")
+st.title(" DSS para la Mejora de la Productividad de Mano de Obra")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "La solución permite operativa del proceso de fabricación"
 )
